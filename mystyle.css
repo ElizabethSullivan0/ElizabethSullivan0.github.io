@@ -1,0 +1,34 @@
+body{
+background-color:#FAF9F6;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.title{
+text-align:center;
+
+
+
+}
+
+.box{
+    margin-left:20px;
+    line-height: 200%;
+
+}
+
+a {
+    text-decoration: none;
+    color:#541713;
+}
+
+a:hover {
+    background-color:#541713;
+    color:#FAF9F6
+}
+
+img {
+
+    width:50%;
+    height:50%;
+}

@@ -1,14 +1,17 @@
-* {font-family:sans-serif;
+body{
+background-color:blue ;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 
-body {
-    background-color:#44383d;
-    color:#44383d;
-    line-height: 1.5;
-    
+.title{
+
+
 }
 
-div {
-    background-color:#f8f7f6 ;
-    
+.box{
+
+
 }
+
+s
